@@ -1,4 +1,4 @@
-Image Generation
+Da Vinci Code
 
 Installation
 Install the package locally using pip.
