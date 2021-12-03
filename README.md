@@ -8,7 +8,9 @@ The current version of the script only has the capabilitiy to change colors and 
 
 # Installation
 Install the package locally using pip, or clone our repo
+
 pip install opencv-python
+
 pip install numpy
 
 # Simple Tutorial
