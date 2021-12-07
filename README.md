@@ -3,7 +3,7 @@
 # Motivation
 At Convex Labs, we’re NFT fanatics. We believe that NFTs represent a revolution in the art and collectibles spaces. This repo is a demonstration of the image and metadata generation process.
 
-The current version of the script only has the capabilitiy to change colors and add one extra layer. The generated images are simple images. You can update the rarity sheet locally with different colors and add more trait images. We plan to include more sophisticated images and update the code base with a more advanced image generation script.
+The current version of the script only has the capability to change colors and add one extra layer. The generated images are simple images. You can update the rarity sheet locally with different colors and add more trait images. We plan to include more sophisticated images and update the code base with a more advanced image generation script.
 
 
 # Installation
