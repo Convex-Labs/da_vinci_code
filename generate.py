@@ -92,7 +92,7 @@ def floodFill(input_img, output_img, hex, hex2):
     cv2.imwrite(output_img, flood)
 
 
-# funciton to generate new images based on traits and base image
+# function to generate new images based on traits and base image
 def generate_image(image):
     print("Generating image " + image['Number'])
     startTime = datetime.datetime.now()
